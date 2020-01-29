@@ -1,6 +1,8 @@
 # hw-1-2
 ## Assignments 1 &amp; 2
 
+*Due dates are written in the description of the class_materials repository.*
+
 ### Assignment 1:
 - Please complete the "In-Class OOP Exercise" in the slides 1_Intro&Python.pdf.
 - Please complete "Assignment 1" in slides 1_Intro&Python.pdf.
